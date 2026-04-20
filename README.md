@@ -1,3 +1,3 @@
-This is a repository for SenseJudge.
+This is a repository for SenseJudge.Code is comming soon.
 
 
